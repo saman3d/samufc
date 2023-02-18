@@ -1,0 +1,21 @@
+openapi: "3.0.0"
+
+info:
+  version: 1.0.0
+  title: SamUFC API Definition
+  description: SamUFC is an api for interacting with ufc events
+  license:
+    name: GNU GENERAL PUBLIC LICENSE
+  contact:
+    name: API Support
+    email: saman.koushki79@gmail.com
+
+tags:
+  - name: fighters
+  - name: events
+
+paths:
+
+parameters:
+
+definitions:
